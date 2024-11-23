@@ -69,9 +69,29 @@
       "name":"banan",
       "price":50
     },
+
     {
       "name":"lays",
       "price":120
+    },
+
+    {
+      "name":"tango",
+      "price":100 
+
+    },
+    
+    {
+      "name":"flaska",
+      "price":60
+
+    },
+
+
+    {
+      "name":"rapira",
+      "price":5600
+
     }
 
   ]
