@@ -65,38 +65,45 @@
   }
   ], 
 
-  "product": [
-    {
-      "name":"banan",
-      "price":50
-    },
+    "product": [
+      {
+        "name":"banan",
+        "price":50
+      },
 
-    {
-      "name":"lays",
-      "price":120
-    },
+      {
+        "name":"lays",
+        "price":120
+      },
 
-    {
-      "name":"tango",
-      "price":100 
+      {
+        "name":"tango",
+        "price":100 
 
-    },
-    
-    {
-      "name":"flaska",
-      "price":60
+      },
+      
+      {
+        "name":"flaska",
+        "price":60
 
-    },
+      },
 
 
-    {
-      "name":"rapira",
-      "price":5600
+      {
+        "name":"rapira",
+        "price":5600
+
 
     },
     {
       "name":"ulibashki",
       "price":777
+    },
+
+    {
+      "name":"ulibashki",
+      "price":777
     }
-  
-}
+  ]
+
+
