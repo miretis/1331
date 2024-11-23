@@ -8,8 +8,14 @@
       "balance":1500
 
   }
+  ], 
 
-    
+  "product": [
+    {
+      "name":"banan",
+      "price":50
+    }
+
   ]
   
 }
