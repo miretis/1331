@@ -1,12 +1,24 @@
 {
   "users": [
-{
-  "id": 4,
-  "name": "Liza",
-  "surname": "Kalmutska",
-  "photo_url": "https://png.pngtree.com/png-vector/20240314/ourlarge/pngtree-watercolor-pink-satin-bow-isolated-on-a-white-backg-png-image_11951869.png",
-  "balance": 310000000
-}
+
+  {
+    "id": 1,
+    "name":"lol",
+    "surname":"kek",
+    "photo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/800px-Cat03.jpg",
+    "balance":1500
+
+  },
+  {
+    "id": 4,
+    "name": "Liza",
+    "surname": "Kalmutska",
+    "photo_url": "https://png.pngtree.com/png-vector/20240314/ourlarge/pngtree-watercolor-pink-satin-bow-isolated-on-a-white-backg-png-image_11951869.png",
+    "balance": 310000000
+  }
+
+      
+
 
   ]
   
