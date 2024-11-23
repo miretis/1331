@@ -1,5 +1,13 @@
 {
   "users": [
+    {
+      "id": 1,
+      "name":"lol",
+      "surname":"kek",
+      "photo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/800px-Cat03.jpg",
+      "balance":1500
+
+  }
 
     
   ]
