@@ -1,12 +1,58 @@
 {
   "users": [
-    {
-      "id": 1,
-      "name":"lol",
-      "surname":"kek",
-      "photo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/800px-Cat03.jpg",
-      "balance":1500
 
+  {
+"id": 333,
+    "name":"invoker",
+    "surname": "baby",
+    "photo_url": "https://i.redd.it/uw8pu43lkeb51.jpg",
+    "balance": 3500
+    
+
+  },
+  {
+"id": 334,
+    "name":"shadow ",
+    "surname": "fiend",
+    "photo_url": "https://motionbgs.com/media/5993/shadow-fiend-dota-2.jpg",
+    "balance": 5000
+  },
+
+  {
+"id": 335,
+    "name":"techis ",
+    "surname": "green",
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReF3JT7eBLwDEY-v2MmB50h0Ts0Q7B85JF4g&s",
+    "balance": 7800
+
+  },
+
+  {
+"id": 336,
+    "name":"ogr mag",
+    "surname": "midasovich",
+    "photo_url": "https://cdn.akamai.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ogre_magi.png",
+    "balance": 12000
+
+
+  },
+
+
+
+  {
+    "id": 1,
+    "name":"lol",
+    "surname":"kek",
+    "photo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/800px-Cat03.jpg",
+    "balance":1500
+
+  },
+  {
+    "id": 4,
+    "name": "Liza",
+    "surname": "Kalmutska",
+    "photo_url": "https://png.pngtree.com/png-vector/20240314/ourlarge/pngtree-watercolor-pink-satin-bow-isolated-on-a-white-backg-png-image_11951869.png",
+    "balance": 310000000
   }
   ], 
 
