@@ -93,18 +93,10 @@
       "name":"rapira",
       "price":5600
 
+    },
+    {
+      "name":"ulibashki",
+      "price":777
     }
-
-  ]
   
 }
-
-"product": [
-  {
-    "name":"ulibashki",
-    "price":777
-  }
-
-
-]
-
