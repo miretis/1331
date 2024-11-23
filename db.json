@@ -1,7 +1,12 @@
 {
   "users": [
-
-    
+    {
+      "id": 7,
+      "name": "UZI",
+      "surname": "FNAF",
+      "photo_url": "https://en.wikipedia.org/wiki/Gravity_Falls",
+      "balance": 777
+    }
   ]
   
 }
