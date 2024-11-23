@@ -68,9 +68,26 @@
     {
       "name":"banan",
       "price":50
+    },
+
+    {
+      "name":"tango",
+      "price":100 
+
+    },
+    
+    {
+      "name":"flaska",
+      "price":60
+
+    },
+
+
+    {
+      "name":"rapira",
+      "price":5600
+
     }
-
-
   ]
   
 }
