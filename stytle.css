@@ -1,4 +1,13 @@
 *{
     margin: 0px;
     padding: 0px;
+}  
+
+.dom{
+    border: 10px;
+    border-radius: 10px;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    
 }
