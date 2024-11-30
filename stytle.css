@@ -5,9 +5,31 @@
 
 .dom{
     border: 10px;
-    border-radius: 10px;
+    border-radius: 100px;
     background-color: black;
     width: 100px;
     height: 100px;
+    margin-left: 250px;
+    
+}
+
+
+.dom1{
+    border: 10px;
+    border-radius: 100px;
+    background-color: black;
+    width: 115px;
+    height: 115px;
+    margin-left: 245px;
+    
+}
+
+.dom2{
+    border: 10px;
+    border-radius: 100px;
+    background-color: black;
+    width: 125px;
+    height: 125px;
+    margin-left: 240px;
     
 }
