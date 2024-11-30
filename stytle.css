@@ -1,5 +1,5 @@
 *{
-    margin: 0px;
+    margin:  0px;
     padding: 0px;
 }  
 
@@ -21,6 +21,8 @@
     width: 115px;
     height: 115px;
     margin-left: 245px;
+    justify-content: center;
+
     
 }
 
